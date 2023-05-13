@@ -1,0 +1,15 @@
+C:\Users\aman.rajput\source\repos\linqAssignment\linqAssignment\bin\Debug\net6.0\linqAssignment.exe
+C:\Users\aman.rajput\source\repos\linqAssignment\linqAssignment\bin\Debug\net6.0\linqAssignment.deps.json
+C:\Users\aman.rajput\source\repos\linqAssignment\linqAssignment\bin\Debug\net6.0\linqAssignment.runtimeconfig.json
+C:\Users\aman.rajput\source\repos\linqAssignment\linqAssignment\bin\Debug\net6.0\linqAssignment.dll
+C:\Users\aman.rajput\source\repos\linqAssignment\linqAssignment\bin\Debug\net6.0\linqAssignment.pdb
+C:\Users\aman.rajput\source\repos\linqAssignment\linqAssignment\obj\Debug\net6.0\linqAssignment.csproj.AssemblyReference.cache
+C:\Users\aman.rajput\source\repos\linqAssignment\linqAssignment\obj\Debug\net6.0\linqAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aman.rajput\source\repos\linqAssignment\linqAssignment\obj\Debug\net6.0\linqAssignment.AssemblyInfoInputs.cache
+C:\Users\aman.rajput\source\repos\linqAssignment\linqAssignment\obj\Debug\net6.0\linqAssignment.AssemblyInfo.cs
+C:\Users\aman.rajput\source\repos\linqAssignment\linqAssignment\obj\Debug\net6.0\linqAssignment.csproj.CoreCompileInputs.cache
+C:\Users\aman.rajput\source\repos\linqAssignment\linqAssignment\obj\Debug\net6.0\linqAssignment.dll
+C:\Users\aman.rajput\source\repos\linqAssignment\linqAssignment\obj\Debug\net6.0\refint\linqAssignment.dll
+C:\Users\aman.rajput\source\repos\linqAssignment\linqAssignment\obj\Debug\net6.0\linqAssignment.pdb
+C:\Users\aman.rajput\source\repos\linqAssignment\linqAssignment\obj\Debug\net6.0\linqAssignment.genruntimeconfig.cache
+C:\Users\aman.rajput\source\repos\linqAssignment\linqAssignment\obj\Debug\net6.0\ref\linqAssignment.dll
